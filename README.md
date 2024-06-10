@@ -83,7 +83,8 @@ This endpoint returns data for generating a pie chart showing unique categories 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-Make sure to replace `<repository-url>` and `<your-mongodb-uri>` with your actual repository URL and MongoDB URI, respectively. You can also customize the README according to your specific project details and requirements.
+MONGO_URI=mongodb+srv://roxiler:1234567890@cluster0.y8yy7so.mongodb.net/roxiler
+PORT=5000
 
 
 The server should now be running on http://localhost:5000.
